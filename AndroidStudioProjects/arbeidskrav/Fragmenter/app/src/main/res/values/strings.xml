@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Fragmenter</string>
+
+    <string name="prev">Forrige</string>
+    <string name="next">Neste</string>
+
+    <string name="film">Løvenes Konge</string>
+    <string name="filmBeskrivelse">Filmen handler om en ung løve i Afrika kalt Simba, som finner ut om sin plass i «livets sirkel», mens han kjemper seg gjennom forskjellige hindringer for å bli den rettmessige kongen av Løveriket. Kongen av dette riket regjerer over de andre dyrene som konge.</string>
+    <string name="bok">Pippi Langstrømpe</string>
+    <string name="bokBeskrivelse">Pippi Langstrømpe bor alene i Villa Villekulla sammen med hesten sin og apekatten Herr Nilsson. </string>
+    <string name="bilde">Brudeferd i Hardanger</string>
+    <string name="bildeBeskrivelse">Et av de mest kjente norske malerier. Det ble utført i 1848 av malerne Adolph Tidemand og Hans Gude i samarbeid.</string>
+
+    <string-array name="titles">
+        <item>@string/film</item>
+        <item>@string/bok</item>
+        <item>@string/bilde</item>
+    </string-array>
+
+    <string-array name="descriptions">
+        <item>@string/filmBeskrivelse</item>
+        <item>@string/bokBeskrivelse</item>
+        <item>@string/bildeBeskrivelse</item>
+    </string-array>
+
+    <array name="pictures">
+        <item>@drawable/lion</item>
+        <item>@drawable/pippi</item>
+        <item>@drawable/brudeferd</item>
+    </array>
+</resources>

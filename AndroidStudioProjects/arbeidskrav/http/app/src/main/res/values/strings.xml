@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">http</string>
+    <string name="header">Start et spill!</string>
+    <string name="name_user">Navn:</string>
+    <string name="name_user_hint">Skriv navn her</string>
+    <string name="card_number">Kortnummer:</string>
+    <string name="card_number_hint">Skriv kortnummer her</string>
+    <string name="button_text">Start spillet</string>
+    <string name="button_number">Gjett</string>
+    <string name="registrate">Gå tilbake til registrering</string>
+
+
+</resources>

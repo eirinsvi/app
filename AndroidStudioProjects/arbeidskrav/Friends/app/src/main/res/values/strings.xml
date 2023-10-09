@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Friends</string>
+    <string name="edit_header">Rediger venn</string>
+    <string name="add_header">Legg til venn</string>
+    <string name="edit_button">oppdater venn</string>
+    <string name="add_button">Registrer venn</string>
+</resources>
