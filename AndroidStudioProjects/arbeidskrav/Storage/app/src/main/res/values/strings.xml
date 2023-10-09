@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Storage</string>
+    <string name="back_button">Gå tilbake</string>
+    <string name="settings">Instillinger</string>
+    <string name="background_color_title">Bakgrunnsfarge</string>
+    <string name="background_color">background_color</string>
+    <string name="background_color_default_value">white</string>
+    <string name="option_all_movies">Alle filmer</string>
+    <string name="option_all_movies_with_info">Alle filmer med info</string>
+    <string name="option_all_directors">Alle regissører</string>
+    <string name="option_all_actors">Alle skuespillere</string>
+    <string name="option_movies_by_driector">Filmer regissert av Gary Ross</string>
+
+
+</resources>
